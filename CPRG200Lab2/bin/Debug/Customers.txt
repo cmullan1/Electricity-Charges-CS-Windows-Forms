@@ -1,0 +1,5 @@
+101,Mickey Mouse,R,12.24
+102,Donald Duck,R,6
+503,Bob's Printing,C,82.5
+1123,Big Oil Corp,I,186.6
+1123,Big Oil Corp,I,130

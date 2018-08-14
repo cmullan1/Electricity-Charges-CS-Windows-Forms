@@ -1,0 +1,10 @@
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\bin\Debug\CPRG200Lab2.exe.config
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\bin\Debug\CPRG200Lab2.exe
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\bin\Debug\CPRG200Lab2.pdb
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.csprojResolveAssemblyReference.cache
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.frmElectricityCharges.resources
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.Properties.Resources.resources
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.csproj.GenerateResource.cache
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.csproj.CoreCompileInputs.cache
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.exe
+C:\Users\71374\source\repos\CPRG200Lab2\CPRG200Lab2\obj\Debug\CPRG200Lab2.pdb
